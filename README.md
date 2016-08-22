@@ -3,11 +3,7 @@ Wrapper around the ping utility included by the OS.
 
 # CLI Interface
 ```
-$ python ping_sweep.py 
-Usage:
-    ping-sweep.py <cidr> [--test]
-    ping-sweep.py -f <file> [--test]
-mbp:scripts joe$ python ping_sweep.py -h
+$ python ping_sweep.py -h
 ping-sweep.py
 
 Usage:
