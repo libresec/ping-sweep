@@ -18,7 +18,6 @@ Arguments:
                 produced.
     file        File containing one IP address or CIDR block per
                 line. Invalid values are skipped.
-
 """
 import os
 import subprocess
