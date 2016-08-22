@@ -4,11 +4,11 @@ Wrapper around the ping utility included by the OS.
 # CLI Interface
 ```
 $ python ping_sweep.py -h
-ping-sweep.py
+ping_sweep.py
 
 Usage:
-    ping-sweep.py <cidr> [--test]
-    ping-sweep.py -f <file> [--test]
+    ping_sweep.py <cidr> [--test]
+    ping_sweep.py -f <file> [--test]
 
 Options:
     -h, --help  Display usage.
